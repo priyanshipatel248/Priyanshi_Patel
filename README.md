@@ -15,7 +15,7 @@
 <img align="left" alt="priyanshi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priyanshipatel248&show_icons=true&hide_border=true" />
 </details>
 
-</br>
+
 ### Connect with me
 <a href="https://www.linkedin.com/in/priyanshipatel248/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
