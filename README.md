@@ -8,9 +8,8 @@
 - ♥️  Ask me about anything related to tech.
 - ⚡Fun Fact: I drink at least 3 cups of tea a day and more at most.😁
 
-
+### Github Stats
 <details>
-  <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="priyanshi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priyanshipatel248&show_icons=true&hide_border=true" />
 </details>
 
