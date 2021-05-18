@@ -20,6 +20,9 @@
 <a href="https://www.linkedin.com/in/priyanshipatel248/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://www.linkedin.com/in/priyanshipatel248/">
+<a href="https://www.medium.com/in/priyanshipatel248/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://t.me/priyanshi_04">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
