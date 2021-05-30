@@ -5,7 +5,7 @@
 - 🌏 I'm currently Exploring new field of technologies !!
 - 💻 I'm passionate about Data science,Python,Machine learning,Artifical Intelligence.
 - 👯 I'm looking to collaborate on real world projects.
-- ♥️  Ask me about anything related to tech.
+- ♥️  Ask me anything related to tech.
 - ⚡Fun Fact: I drink at least 3 cups of tea a day and more at most.😁
 
 ### Github Stats
